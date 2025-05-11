@@ -1,4 +1,4 @@
-package com.joaosbarbosadev.vercel.wolfProductSolid.domain;
+package com.joaosbarbosadev.vercel.wolfProductSolid.domain.model;
 
 import jakarta.persistence.*;
 import lombok.*;
